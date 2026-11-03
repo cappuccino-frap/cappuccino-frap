@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="cappuccino-banner-no-person.png" width="100%" alt="The Cappuccino Journal">
+</p>
+
+---
 # Hello World! I'm SAMI. 👋
 
 *Building my journey, one line of code at a time.*
